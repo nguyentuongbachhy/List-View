@@ -1,0 +1,17 @@
+{
+  "19KTPM1" : [
+    {
+      "id": "22120455",
+      "fullName": "Nguyen Tuong Bach Hy",
+      "birthday": "08/03/2004",
+      "gender": 1
+    },
+
+    {
+      "id": "22130123",
+      "fullName": "Dung Nguyen",
+      "birthday": "01/01/2000",
+      "gender": 1
+    }
+  ]
+}
